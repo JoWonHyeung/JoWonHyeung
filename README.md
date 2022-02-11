@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <div align=center><h1>🌱 Me</h1></div>
 
 <div align=center> Hi! I'm data scientist aspiration.</div>
-
+<br>
+<div align=center> Now, I'm senior.</div>
 
 
 <div align=center><h1>📚 STACKS</h1></div>
