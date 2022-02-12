@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <div align=center> Hi! I'm data scientist aspiration.</div>
 <br>
 <div align=center> Now, I'm senior.</div>
-
+<br>
+<div align=center> I had belonged to KPU department of Game Engineering, but transferred to Sejong University Computer Engineering. </div>
 
 <div align=center><h1>📚 STACKS</h1></div>
 
