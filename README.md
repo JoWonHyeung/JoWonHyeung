@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align=center> I had belonged to KPU department of Game Engineering, but transferred to Sejong University Computer Engineering. </div>
 
 <div align=center><h1> ⚡ Interest </h1> </div>
-<div align=center>Crawling, ML/DL</div>
+<div align=center> ML/DL</div>
 
 
 <div align=center><h1>📚 STACKS</h1></div>
