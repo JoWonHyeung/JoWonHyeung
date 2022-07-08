@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <div align=center><h1> 📫 Activity </h1> </div>
 <div> [2016/03 ~ 2021/03] 한국산업기술대학교 게임공학부 자퇴</div>
-<div> [2021/03 ~ 현재] 세종대학교 컴퓨터 공학과 편입후 재학중</div>
+<div> [2021/03 ~ 현재] 세종대학교 컴퓨터 공학과 편입 후, 재학중</div>
 <div> [2022/01 ~ 2022/01] 삼성SDS 알고리즘 특강 수료</div>
 <div> [2022/01 ~ 2022/06] 멀티캠퍼스 '프로젝트형 빅데이터 분석 서비스 개발'과정 수료</div>
 <div> [2022/02 ~ 2022/03] 'HelperFriend' 프로젝트 참여</div>
