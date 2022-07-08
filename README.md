@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <div> [2022/02 ~ 2022/03] 'HelperFriend' 프로젝트 참여</div>
 <div> [2022/03 ~ 2022/08] 세종대학교 인공지능 동아리 SAI 5기 활동</div>
 <div> [2022/05 ~ 2022/05] '국토교통 데이터 활용 경진대회' 참여</div>
-<div> [2022/02 ~ 2022/03] '장애인 주차구역 단속 서비스' 프로젝트 참여</div>
+<div> [2022/05 ~ 2022/06] '장애인 주차구역 단속 서비스' 프로젝트 참여</div>
 <div> [2022/07 ~ 현재] 오픈소스 컨트리뷰톤 'Apache Zeppelin' 프로젝트 참여</div>
 
 <div align=center><h1>📚 STACKS</h1></div>
