@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 <div align=center><h1> 📫 Activity </h1> </div>
 <div> [2016/03 ~ 2021/03] 한국산업기술대학교 게임공학부 자퇴</div>
 <div> [2021/03 ~ 현재] 세종대학교 컴퓨터 공학부 편입후 재학중</div>
-<div> [2022/05 ~ 2022/05] '국토교통 데이터 활용 경진대회' 참여</div>
 <div> [2022/01 ~ 2022/06] 멀티캠퍼스 '프로젝트형 빅데이터 분석 서비스 개발'과정 수료</div>
+<div> [2022/03 ~ 2022/08] 세종대학교 인공지능 동아리 SAI 5기 활동</div>
+<div> [2022/05 ~ 2022/05] '국토교통 데이터 활용 경진대회' 참여</div>
 <div> [2022/07 ~ 현재] 오픈소스 컨트리뷰션 'Apache Zeppelin' 프로젝트 참여</div>
 
 <div align=center><h1>📚 STACKS</h1></div>
