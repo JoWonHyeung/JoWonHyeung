@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <div align=center> I had belonged to KPU department of Game Engineering, but transferred to Sejong University Computer Engineering. </div>
 
 <div align=center><h1> ⚡ Interest </h1> </div>
-<div align=center> ML/DL</div>
+<div align=center> ML/DL, MLops </div>
 
 <div align=center><h1> 📫 Activity </h1> </div>
-<div> [2016/03 ~ 2021/03] 한국산업기술대학교 게임공학부 자퇴</div>
+<div> [2016/03 ~ 2021/03] 한국산업기술대학교(現 한국공학대) 게임공학부 자퇴</div>
 <div> [2021/03 ~ 현재] 세종대학교 컴퓨터 공학과 편입 후, 재학중</div>
 <div> [2022/01 ~ 2022/01] 삼성SDS 알고리즘 특강 수료</div>
 <div> [2022/01 ~ 2022/06] 멀티캠퍼스 '프로젝트형 빅데이터 분석 서비스 개발'과정 수료</div>
