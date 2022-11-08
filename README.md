@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <div> [2022/05 ~ 2022/06] '장애인 주차구역 단속 서비스' 프로젝트 참여</div>
 <div> [2022/07 ~ 2022/09] 오픈소스 컨트리뷰션 'Apache Zeppelin' 프로젝트 참여 </div>
 <div> [2022/09 ~ 2022/11] 서울시 빅데이터 공모전 참여 </div>
+<div> [2022/09 ~ 2022/11] 제2회 제조데이터 분석 경진대회 참여</div>
 <div> [2022/09 ~ 현재] '노지작물 병해 검출 및 분류 플랫폼 구축' 프로젝트 참여  </div>
-<div> [2022/09 ~ 현재] 제2회 제조데이터 분석 경진대회 참여</div>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align="center">
