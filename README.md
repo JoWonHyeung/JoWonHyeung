@@ -57,3 +57,8 @@ Here are some ideas to get you started:
  <div align=center><h1> 😄 Awards </h1> </div>
 
 <div align=center> 멀티캠퍼스 융복합 프로젝트 최우수상 수상</div>
+
+<div align=center><h1>✨Ect</h1></div>
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mesh153)](https://solved.ac/mesh153)
+![WonHyeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoWonHyeung&show_icons=true&theme=dark)
