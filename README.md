@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <div> [2022/09 ~ 2022/11] 서울시 빅데이터 공모전 참여 </div>
 <div> [2022/09 ~ 2022/11] 제2회 제조데이터 분석 경진대회 참여</div>
 <div> [2022/09 ~ 2022/12] '이지팜' 프로젝트 참여  </div>
+<div> [2023/07 ~ 현재] KB국민은행 IT아카데미 IT's your life 4기 과정 수료  </div>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align="center">
