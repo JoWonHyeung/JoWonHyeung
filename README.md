@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div> [2022/01 ~ 2022/06] 삼성SDS 멀티캠퍼스 '프로젝트형 빅데이터 분석 서비스 개발'과정 수료</div>
 <div> [2022/03 ~ 2022/08] 세종대학교 중앙동아리 SAI(Sejong Artifical Intelligence) 5기 활동</div>
 <div> [2022/07 ~ 2022/09] 과학기술정보통신부 주관 오픈소스 컨트리뷰션 아카데미 'Apache Zeppelin' 프로젝트 참여 </div>
-<div> [2023/07 ~ 현재] KB국민은행 IT아카데미 IT's your life 4기 과정 수료  </div>
+<div> [2023/07 ~ 2023/10] KB국민은행 IT아카데미 IT's your life 4기 과정 수료  </div>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align="center">
