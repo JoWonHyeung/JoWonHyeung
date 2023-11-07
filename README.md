@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 <div align=center> Hi! I'm backend engineer aspiration.</div>
 <br>
 <div align=center> I had belonged to KPU department of Game Engineering, but transferred to Sejong University Computer Engineering. </div>
+<br>
+[Uploading 조원형_포트폴리오.pdf…](포트폴리오)
+
 
 <div align=center><h1> ⚡ Interest </h1> </div>
 <div align=center> Backend engineer </div>
