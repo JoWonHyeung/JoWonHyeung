@@ -18,20 +18,14 @@ Here are some ideas to get you started:
 <div align=center> I had belonged to KPU department of Game Engineering, but transferred to Sejong University Computer Engineering. </div>
 <br>
 <div align=center>
-
+<div align=center> I am currently working as a web developer at AhnLab. </div>
  </div>
 
-<div align=center><h1> ⚡ Interest </h1> </div>
-<div align=center> Backend engineer </div>
 
-<div align=center><h1> 📫 Activity </h1> </div>
+<div align=center><h1> 📫 Career </h1> </div>
 <div> [2016/03 ~ 2021/03] 한국산업기술대학교(現 한국공학대) 게임공학부 자퇴</div>
 <div> [2021/03 ~ 2023/08] 세종대학교 컴퓨터 공학과 졸업</div>
-<div> [2022/01 ~ 2022/01] 삼성SDS 알고리즘 특강 수료</div>
-<div> [2022/01 ~ 2022/06] 삼성SDS 멀티캠퍼스 '프로젝트형 빅데이터 분석 서비스 개발'과정 수료</div>
-<div> [2022/03 ~ 2022/08] 세종대학교 중앙동아리 SAI(Sejong Artifical Intelligence) 5기 활동</div>
-<div> [2022/07 ~ 2022/09] 과학기술정보통신부 주관 오픈소스 컨트리뷰션 아카데미 'Apache Zeppelin' 프로젝트 참여 </div>
-<div> [2023/07 ~ 2023/10] KB국민은행 IT아카데미 IT's your life 4기 과정 수료  </div>
+<div> [2024/01 ~ 진행중] 안랩 재직중</div>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align="center">
@@ -43,12 +37,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
  </div>
- 
- <div align=center><h1> 😄 Awards </h1> </div>
-
-<div align=center> 멀티캠퍼스 융복합 프로젝트 최우수상 수상</div>
-
-<div align=center><h1>✨Ect</h1></div>
-
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mesh153)](https://solved.ac/mesh153)
-![WonHyeung's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoWonHyeung&show_icons=true&theme=dark)
