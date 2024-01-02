@@ -21,11 +21,18 @@ Here are some ideas to get you started:
 <div align=center> I am currently working as a web developer at AhnLab. </div>
  </div>
 
-
 <div align=center><h1> 📫 Career </h1> </div>
 <div> [2016/03 ~ 2021/03] 한국산업기술대학교(現 한국공학대) 게임공학부 자퇴</div>
 <div> [2021/03 ~ 2023/08] 세종대학교 컴퓨터 공학과 졸업</div>
-<div> [2024/01 ~ 진행중] 안랩 재직중</div>
+<div> [2024/01 ~ 진행중] 안랩 </div>
+
+<br>
+<div align=center><h1> :cactus: Activities </h1></div>
+<div> [2022/01 ~ 2022/08] 세종대학교 인공지능 중앙동아리 SAI 5기 </div>
+<div> [2022/07 ~ 2022/08] 오픈소스 컨트리뷰션 아카데미 'Apache Zeppelin' 프로젝트 참여</div>
+<div> [2023/07 ~ 2023/09] KB국민은행 IT's your life 4기 수료</div>
+
+<br>
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align="center">
