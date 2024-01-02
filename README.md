@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <br>
 <div align=center>
 
- [조원형_포트폴리오](/조원형_포트폴리오.pdf)
-
  </div>
 
 <div align=center><h1> ⚡ Interest </h1> </div>
