@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <div align=center><h1> 📫 Career </h1> </div>
 <div> [2016/03 ~ 2021/03] 한국산업기술대학교(現 한국공학대) 게임공학부 자퇴</div>
 <div> [2021/03 ~ 2023/08] 세종대학교 컴퓨터 공학과 졸업</div>
-<div> [2024/01 ~ 진행중] 안랩 </div>
+<div> [2024/01 ~ 진행중] 안랩 재직</div>
 
 <br>
 <div align=center><h1> :cactus: Activities </h1></div>
