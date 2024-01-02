@@ -17,14 +17,14 @@ Here are some ideas to get you started:
  <div align=center> I had belonged to KPU department of Game Engineering, but transferred to Sejong University Computer Engineering. </div>
  <br>
  <div align=center>
- <div align=center> I am currently working as a web developer at AhnLab. </div>
+ <div align=center> I am currently working as a web developer at OO. </div>
 </div>
 <br>
 
 <div align=center><h1> 📫 Career </h1> </div>
 <div> [2016/03 ~ 2021/03] 한국산업기술대학교(現 한국공학대) 게임공학부 자퇴</div>
 <div> [2021/03 ~ 2023/08] 세종대학교 컴퓨터 공학과 졸업</div>
-<div> [2024/01 ~ 진행중] 안랩 재직</div>
+<div> [2024/01 ~ 진행중] OO 재직</div>
 
 <br>
 <div align=center><h1> :cactus: Activities </h1></div>
