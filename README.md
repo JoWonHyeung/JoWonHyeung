@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  <div align=center> I had belonged to KPU department of Game Engineering, but transferred to Sejong University Computer Engineering. </div>
  <br>
  <div align=center>
- <div align=center> I am currently working as a web developer at ahnlab. </div>
+ <div align=center> I am currently working as a software engineer at ahnlab. </div>
 </div>
 <br>
 
