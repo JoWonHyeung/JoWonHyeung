@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center><h1>🌱 Me</h1></div>
- <div align=center> Hi! I'm backend engineer aspiration.</div>
+ <div align=center> Hi! I'm backend engineer.</div>
  <br>
  <div align=center> I had belonged to KPU department of Game Engineering, but transferred to Sejong University Computer Engineering. </div>
  <br>
  <div align=center>
- <div align=center> I am currently working as a software engineer at ahnlab. </div>
+ <div align=center> I am currently working as a backend engineer at ahnlab. </div>
 </div>
 <br>
 
