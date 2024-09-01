@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align=center><h1> 📫 Career </h1> </div>
-<div> [2016/03 ~ 2021/03] 한국산업기술대학교(現 한국공학대) 게임공학부 자퇴</div>
+<div> [2016/03 ~ 2021/03] OOOOOO대학교(現 OOOO대) OO공학부 자퇴</div>
 <div> [2021/03 ~ 2023/08] OOO 컴퓨터 공학과 졸업</div>
 <div> [2024/01 ~ 2024/08] 안랩 재직</div>
 
